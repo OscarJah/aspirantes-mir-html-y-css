@@ -1,0 +1,30 @@
+#iform{
+width: 300px;
+padding: 20px;
+border-radius: 20px;
+margin: 0 auto;
+background-image: linear-gradient(to bottom, #bd09b7, #6b4cf5);
+box-shadow: 5px 5px 5px #888888;
+color:  white;
+font-family: arial, sans-serif;
+}
+
+@media (min-width: 500px){
+    form {
+        width:300px;
+    }
+
+}
+
+#iinput{
+padding: 7px;
+width: 100%;
+}
+
+#ibutton{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 220px;
+}
